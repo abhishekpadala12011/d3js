@@ -1,0 +1,212 @@
+[
+  {
+    "group": "Anti-social behaviour",
+    "Month": 2020,
+    "Crime_Count": 33474
+  },
+  {
+    "group": "Violence and sexual offences",
+    "Month": 2021,
+    "Crime_Count": 29547
+  },
+  {
+    "group": "Anti-social behaviour",
+    "Month": 2019,
+    "Crime_Count": 26988
+  },
+  {
+    "group": "Violence and sexual offences",
+    "Month": 2020,
+    "Crime_Count": 26163
+  },
+  {
+    "group": "Anti-social behaviour",
+    "Month": 2021,
+    "Crime_Count": 23507
+  },
+  {
+    "group": "Violence and sexual offences",
+    "Month": 2019,
+    "Crime_Count": 23370
+  },
+  {
+    "group": "Criminal damage and arson",
+    "Month": 2021,
+    "Crime_Count": 9484
+  },
+  {
+    "group": "Criminal damage and arson",
+    "Month": 2020,
+    "Crime_Count": 9345
+  },
+  {
+    "group": "Criminal damage and arson",
+    "Month": 2019,
+    "Crime_Count": 9122
+  },
+  {
+    "group": "Public order",
+    "Month": 2021,
+    "Crime_Count": 8001
+  },
+  {
+    "group": "Shoplifting",
+    "Month": 2019,
+    "Crime_Count": 6776
+  },
+  {
+    "group": "Public order",
+    "Month": 2020,
+    "Crime_Count": 6355
+  },
+  {
+    "group": "Shoplifting",
+    "Month": 2021,
+    "Crime_Count": 5311
+  },
+  {
+    "group": "Other theft",
+    "Month": 2019,
+    "Crime_Count": 5268
+  },
+  {
+    "group": "Public order",
+    "Month": 2019,
+    "Crime_Count": 5038
+  },
+  {
+    "group": "Other theft",
+    "Month": 2021,
+    "Crime_Count": 4865
+  },
+  {
+    "group": "Burglary",
+    "Month": 2019,
+    "Crime_Count": 4861
+  },
+  {
+    "group": "Other theft",
+    "Month": 2020,
+    "Crime_Count": 4692
+  },
+  {
+    "group": "Burglary",
+    "Month": 2020,
+    "Crime_Count": 4324
+  },
+  {
+    "group": "Shoplifting",
+    "Month": 2020,
+    "Crime_Count": 4133
+  },
+  {
+    "group": "Burglary",
+    "Month": 2021,
+    "Crime_Count": 4035
+  },
+  {
+    "group": "Vehicle crime",
+    "Month": 2019,
+    "Crime_Count": 3806
+  },
+  {
+    "group": "Vehicle crime",
+    "Month": 2021,
+    "Crime_Count": 2998
+  },
+  {
+    "group": "Vehicle crime",
+    "Month": 2020,
+    "Crime_Count": 2941
+  },
+  {
+    "group": "Drugs",
+    "Month": 2020,
+    "Crime_Count": 2349
+  },
+  {
+    "group": "Drugs",
+    "Month": 2021,
+    "Crime_Count": 2137
+  },
+  {
+    "group": "Other crime",
+    "Month": 2021,
+    "Crime_Count": 1929
+  },
+  {
+    "group": "Other crime",
+    "Month": 2020,
+    "Crime_Count": 1914
+  },
+  {
+    "group": "Other crime",
+    "Month": 2019,
+    "Crime_Count": 1769
+  },
+  {
+    "group": "Drugs",
+    "Month": 2019,
+    "Crime_Count": 1552
+  },
+  {
+    "group": "Bicycle theft",
+    "Month": 2019,
+    "Crime_Count": 710
+  },
+  {
+    "group": "Robbery",
+    "Month": 2021,
+    "Crime_Count": 690
+  },
+  {
+    "group": "Robbery",
+    "Month": 2019,
+    "Crime_Count": 649
+  },
+  {
+    "group": "Possession of weapons",
+    "Month": 2020,
+    "Crime_Count": 639
+  },
+  {
+    "group": "Robbery",
+    "Month": 2020,
+    "Crime_Count": 600
+  },
+  {
+    "group": "Bicycle theft",
+    "Month": 2021,
+    "Crime_Count": 599
+  },
+  {
+    "group": "Possession of weapons",
+    "Month": 2021,
+    "Crime_Count": 575
+  },
+  {
+    "group": "Bicycle theft",
+    "Month": 2020,
+    "Crime_Count": 535
+  },
+  {
+    "group": "Possession of weapons",
+    "Month": 2019,
+    "Crime_Count": 521
+  },
+  {
+    "group": "Theft from the person",
+    "Month": 2019,
+    "Crime_Count": 473
+  },
+  {
+    "group": "Theft from the person",
+    "Month": 2020,
+    "Crime_Count": 363
+  },
+  {
+    "group": "Theft from the person",
+    "Month": 2021,
+    "Crime_Count": 344
+  }
+]
